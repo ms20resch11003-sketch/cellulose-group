@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CelluHub - Research Group Management",
+  "description": "A comprehensive management platform for the Cellulose and Composite Group, featuring instrument booking, consumable requests, meeting scheduling, and AI-powered research assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
